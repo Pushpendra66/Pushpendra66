@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PushpendraPrajapati
-- 👀 I’m interested in creating Applications & Robotics
+- 👀 I’m interested in creating Applications & Robots
 - 🌱 I’m currently learning Java Language
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 You can reach me by my Mail: pushpendraprajapati066@gmail.com
